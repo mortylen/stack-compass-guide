@@ -18,7 +18,6 @@ Thank you for visiting the project!
 
 - Web App (main resource): [official web app](https://stackcompassguide.dev)
 - Changelog: [CHANGELOG](./CHANGELOG.md)
-- Roadmap: [ROADMAP](./ROADMAP.md)
 
 ---
 
@@ -28,8 +27,7 @@ Thank you for visiting the project!
 stack-compass-guide/
 ├── CHANGELOG.md   # Project updates & version history
 ├── LICENSE        # Licensing information (MIT)
-├── README.md      # You are here
-└── ROADMAP.md     # Future plans and milestones
+└── README.md      # You are here
 ```
 
 ---
