@@ -12,7 +12,6 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 - Published repository structure with:
   - [README](./README.md) describing the project, core goals, and links.  
   - [CHANGELOG](./CHANGELOG.md) for version tracking.  
-  - [ROADMAP](./ROADMAP.md) outlining future plans and milestones.  
   - [LICENSE](./LICENSE) (MIT).  
 - Publish the **official website** ([stackcompassguide.dev](https://stackcompassguide.dev)).  
 
