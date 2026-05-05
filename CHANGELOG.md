@@ -5,6 +5,12 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 
 ---
 
+## [0.1.2] - 2026-05-05
+
+### Added
+- New topic about machine learning.
+  > This topic will redirect you to my dedicated project, the ML Compass Guide.
+
 ## [0.1.1] - 2026-04-08
 
 ### Added
