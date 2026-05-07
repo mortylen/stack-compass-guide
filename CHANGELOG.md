@@ -5,6 +5,15 @@ This format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and
 
 ---
 
+## [0.1.3] - 2026-05-07
+
+### Added
+- AI prompt generator to the decision pages.
+  > The results of the questions are now also available in the form of an AI prompt.
+
+### Changed
+- Result section on the decision pages.
+
 ## [0.1.2] - 2026-05-05
 
 ### Added
